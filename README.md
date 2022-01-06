@@ -1,6 +1,22 @@
-# radioai
+# Radioai
 
-A new Flutter project.
+Radio Ai is an internet Radio App which helps to listen the music online Over different Channels through Radio
+
+Tools which is used:
+   ✔️ VelocityX
+   ✔️ AlanVoice
+   
+Screenshots
+
+![screenshots](https://user-images.githubusercontent.com/51260891/148342513-77c9e3f3-8b0a-4099-975e-cc0f7b7e2ad1.png)
+Video:
+
+https://user-images.githubusercontent.com/51260891/148342868-dbffab3d-3c8d-40d8-8dd4-444653cc3ba3.mp4
+
+
+
+
+
 
 ## Getting Started
 
